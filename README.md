@@ -1,7 +1,7 @@
 # MLQA
 
 ## About
-Source code of the paper [Meta-Learning Requires Query Set Augmentation]. 
+Source code of the paper [Task augmentation via channel mixture for few-task meta-learning]. 
 This code is built upon the pytorch implementation of few-shot learning [few-shot](https://github.com/oscarknagg/few-shot) and the implementation of [MAML++](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch), [MR-MAML](https://github.com/mingzhang-yin/Meta-learning-without-memorization), [MetaMix](https://github.com/huaxiuyao/MetaMix).
 
 ## Data
